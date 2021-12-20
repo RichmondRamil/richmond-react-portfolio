@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Poppins:ital,wght@0,100;0,200;0,400;1,400&family=Roboto+Mono:wght@100&display=swap");
+:root {
+  --font-family: "Overpass mono", monospace;
+  --gradient-text: linear-gradient(89.97deg, #5439ee 1.84%, #f49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+
+  --color-bg: #0e1a2c;
+  --color-footer: #031b34;
+  --color-text: #81afdd;
+  --color-blog: #042c54;
+  --color-subtext: #633ad4;
+}

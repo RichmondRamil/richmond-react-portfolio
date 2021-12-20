@@ -1,0 +1,20 @@
+.mon__brand {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 4rem;
+}
+.mon__brand div {
+  flex: 1;
+  max-width: 200px;
+  min-width: 220px;
+  margin: 1rem;
+  /* background: #333333; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mon__brand div img {
+  width: 200px;
+}

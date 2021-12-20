@@ -1,0 +1,25 @@
+.mon__skills {
+  display: flex;
+}
+.mon__skills-heading {
+  margin-right: 5rem;
+}
+.mon__skils-heading__beginner-container {
+  margin-top: 2rem;
+}
+.mon__skills-container {
+  margin-right: 2rem;
+}
+@media screen and (max-width: 1200px) {
+  .mon__skills {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 420px) {
+  .mon__skills-heading h1 {
+    font-size: 20px;
+  }
+  .mon__skills {
+    padding: 1rem;
+  }
+}
