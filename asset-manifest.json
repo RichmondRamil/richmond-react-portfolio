@@ -1,18 +1,10 @@
 {
   "files": {
-    "main.css": "/richmond-react-portfolio/static/css/main.150a1102.css",
-    "main.js": "/richmond-react-portfolio/static/js/main.43672f46.js",
-    "static/media/Cert1.png": "/richmond-react-portfolio/static/media/Cert1.8774d4de1663209d7e1b.png",
-    "static/media/Cert6.png": "/richmond-react-portfolio/static/media/Cert6.d807d2d2195d0334f31e.png",
-    "static/media/Cert8.png": "/richmond-react-portfolio/static/media/Cert8.2d2b7c09c81fd863a4bc.png",
-    "static/media/Cert7.png": "/richmond-react-portfolio/static/media/Cert7.a54e4bd2f88ba2b88406.png",
+    "main.css": "/richmond-react-portfolio/static/css/main.414642e2.css",
+    "main.js": "/richmond-react-portfolio/static/js/main.a36f3a89.js",
     "static/media/boy.png": "/richmond-react-portfolio/static/media/boy.a9c9ba637d446d59acea.png",
     "static/media/Aviary.png": "/richmond-react-portfolio/static/media/Aviary.4140e4c95f8fcddb6bb2.png",
-    "static/media/Cert2.png": "/richmond-react-portfolio/static/media/Cert2.b743a06675e8206de3b7.png",
     "static/media/PassengerCounter.png": "/richmond-react-portfolio/static/media/PassengerCounter.6e0d9303966f2d1755ff.png",
-    "static/media/Cert5.png": "/richmond-react-portfolio/static/media/Cert5.1f98db814e68d04b194f.png",
-    "static/media/Cert4.png": "/richmond-react-portfolio/static/media/Cert4.75b5d5ff63e2e98a32e5.png",
-    "static/media/Cert3.png": "/richmond-react-portfolio/static/media/Cert3.da2d9f6d563fa9461b4f.png",
     "static/media/CampBakes.png": "/richmond-react-portfolio/static/media/CampBakes.21cc66f86df0f104b598.png",
     "static/media/FreeCodeCamp.png": "/richmond-react-portfolio/static/media/FreeCodeCamp.8e0bdbc38ee97f5c3f9b.png",
     "static/media/TheOdinProjectLogoReSize.png": "/richmond-react-portfolio/static/media/TheOdinProjectLogoReSize.dfe67d681e4e821fc64e.png",
@@ -20,11 +12,11 @@
     "static/media/StackOverFlow.png": "/richmond-react-portfolio/static/media/StackOverFlow.e99ef1ade833283ab44e.png",
     "static/media/W3SchoolsReSize.png": "/richmond-react-portfolio/static/media/W3SchoolsReSize.fe03b3a9171f5f989580.png",
     "index.html": "/richmond-react-portfolio/index.html",
-    "main.150a1102.css.map": "/richmond-react-portfolio/static/css/main.150a1102.css.map",
-    "main.43672f46.js.map": "/richmond-react-portfolio/static/js/main.43672f46.js.map"
+    "main.414642e2.css.map": "/richmond-react-portfolio/static/css/main.414642e2.css.map",
+    "main.a36f3a89.js.map": "/richmond-react-portfolio/static/js/main.a36f3a89.js.map"
   },
   "entrypoints": [
-    "static/css/main.150a1102.css",
-    "static/js/main.43672f46.js"
+    "static/css/main.414642e2.css",
+    "static/js/main.a36f3a89.js"
   ]
 }
