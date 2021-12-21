@@ -1,41 +1,20 @@
 .col-md-4 {
   margin-bottom: 1rem;
 }
+.title {
+  margin-bottom: 5rem;
+}
 .mon__projects-cards__body {
-  /* ff 3.6+ */
-  background: -moz-radial-gradient(
-    ellipse at 3% 25%,
-    rgba(0, 255, 243, 1) 0%,
-    rgba(199, 201, 255, 1) 100%
-  );
-
-  /* safari 5.1+,chrome 10+ */
-  background: -webkit-radial-gradient(
-    ellipse at 3% 25%,
-    rgba(0, 255, 243, 1) 0%,
-    rgba(199, 201, 255, 1) 100%
-  );
-
-  /* opera 11.10+ */
-  background: -o-radial-gradient(
-    ellipse at 3% 25%,
-    rgba(0, 255, 243, 1) 0%,
-    rgba(199, 201, 255, 1) 100%
-  );
-
-  /* ie 10+ */
-  background: -ms-radial-gradient(
-    ellipse at 3% 25%,
-    rgba(0, 255, 243, 1) 0%,
-    rgba(199, 201, 255, 1) 100%
-  );
-
-  /* global 92%+ browsers support */
-  background: radial-gradient(
-    ellipse at 3% 25%,
-    rgba(0, 255, 243, 1) 0%,
-    rgba(199, 201, 255, 1) 100%
-  );
+}
+.btn {
+  background-color: #5060a8;
+  color: white;
+}
+.mon__project-cards {
+  border: 2px solid #5060a8;
+  border-radius: 5px;
+  min-height: 400px;
+  background-color: #fff;
 }
 .mon__project-cards:hover {
   box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253);
@@ -49,6 +28,7 @@
 }
 .overflow {
   overflow: hidden;
+  max-height: 600px;
 }
 .card-img-top {
   transform: scale(1);
@@ -56,4 +36,15 @@
 }
 .card-img-top:hover {
   transform: scale(1.8);
+}
+
+@media screen and (max-width: 1050px) {
+  .mon__projects {
+    margin: 2rem 4rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .mon__projects {
+    margin: 1rem 2rem;
+  }
 }

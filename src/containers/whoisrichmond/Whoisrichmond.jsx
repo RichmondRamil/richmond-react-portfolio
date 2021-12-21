@@ -4,6 +4,7 @@ import "./whoisrichmond.css";
 const Whoisrichmond = () => {
   return (
     <div className="mon__whomon section__margin" id="whomon">
+      <div className="line-gradient div-top" />
       <div data-aos="zoom-in" className="mon__whomon-feature">
         <Feature
           title="Who am I?"
@@ -30,6 +31,7 @@ const Whoisrichmond = () => {
           text="I am a Supportive friend as long as you are doing a good things on your life. I can make you laugh every day even though we dont have much of money. Also I will be always be there if you need a friend to talk when you are having a bad day or problems in life. I got you!"
         />
       </div>
+      <div className="line-gradient div-bot" />
     </div>
   );
 };

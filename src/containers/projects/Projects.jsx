@@ -8,20 +8,19 @@ const Projects = () => {
       id="projects"
     >
       <div className="row">
-        <h1 className="text-center">Projects</h1>
+        <h1 className="text-center title gradient__text">Projects</h1>
         <div data-aos="zoom-out-up" className="col-md-4">
-          <div className="mon__project-cards text-center shadow">
+          <div className="mon__project-cards text-center">
             <div className="overflow">
               <img src={aviary} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Aviary</h4>
+              <h4 className="card-title gradient__text">Aviary Bird Shop</h4>
               <p className="card-text text-dark">
                 This is the first website that I made on my friends business
-                which is they are selling own breed cockatiel birds. This
-                busines is located in pangasinan.
+                which is they are selling own breed cockatiel birds.
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn ">
                 Download Files
               </a>
             </div>
@@ -33,13 +32,13 @@ const Projects = () => {
               <img src={campbakes} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Camp Bakes Bakery</h4>
+              <h4 className="card-title gradient__text">Camp Bakes Bakery</h4>
               <p className="card-text text-dark">
                 This is the second website that I created for my cousins
                 business to be able him to show case his own baked styles to his
                 customers.
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn">
                 Download Files
               </a>
             </div>
@@ -51,13 +50,13 @@ const Projects = () => {
               <img src={passengercounter} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Passenger Counter</h4>
+              <h4 className="card-title gradient__text">Passenger Counter</h4>
               <p className="card-text text-dark">
                 This is the project that I created after reading, watching some
                 tutorials of JavaScript , also practicing and applying my
                 knowledge on ReactJS
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn ">
                 Download Files
               </a>
             </div>
@@ -69,12 +68,13 @@ const Projects = () => {
               <img src={calculator} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Calculator</h4>
+              <h4 className="card-title gradient__text">Calculator</h4>
               <p className="card-text text-dark">
-                This is the first practice of my JavaScript Learning when I was
-                3rd year College
+                This is the first practice that I made when I was 3rd college of
+                Tarlac State University. It is a small project but I am proud on
+                what am I created.
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn ">
                 Download Files
               </a>
             </div>
@@ -86,13 +86,13 @@ const Projects = () => {
               <img src={aviary} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Card Title</h4>
+              <h4 className="card-title gradient__text">Card Title</h4>
               <p className="card-text text-dark">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
                 perspiciatis voluptatem eum, quas voluptatibus cum fugit maiores
                 vitae eveniet ipsa.
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn ">
                 Download Files
               </a>
             </div>
@@ -104,13 +104,13 @@ const Projects = () => {
               <img src={aviary} className="card-img-top" alt="" />
             </div>
             <div className="mon__projects-cards__body text-dark">
-              <h4 className="card-title">Card Title</h4>
+              <h4 className="card-title gradient__text">Card Title</h4>
               <p className="card-text text-dark">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
                 perspiciatis voluptatem eum, quas voluptatibus cum fugit maiores
                 vitae eveniet ipsa.
               </p>
-              <a href="#" className="btn btn-success">
+              <a href="#" className="btn ">
                 Download Files
               </a>
             </div>

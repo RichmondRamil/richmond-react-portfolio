@@ -1,10 +1,20 @@
 .mon__whomon {
   display: flex;
   flex-direction: column;
-
   padding: 2rem;
 }
-
+.line-gradient {
+  width: 50%;
+  height: 3px;
+  background-image: var(--gradient-bar);
+  margin: 0 auto;
+}
+.div-top {
+  margin-bottom: 4rem;
+}
+.div-bot {
+  margin-top: 2rem;
+}
 .mon__whomon-feature {
   display: flex;
 }
@@ -12,7 +22,7 @@
   margin: 0;
 }
 .mon__whomon-feature .mon__features-container__feature-text {
-  max-width: 700px;
+  max-width: 1100px;
 }
 .mon__whomon-heading {
   display: flex;
@@ -92,6 +102,9 @@
 }
 
 @media screen and (max-width: 350px) {
+  .mon__whomon {
+    padding: 1rem;
+  }
   /* Customizing feature component as per needs */
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;

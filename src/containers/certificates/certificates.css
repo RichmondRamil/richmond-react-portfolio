@@ -1,8 +1,28 @@
-.mon__certificates-container__swipper img {
-  width: 100px;
-  height: 100px;
+.mon__certificates {
+  /* ff 3.6+ */
+
+  padding: 4rem;
 }
-.img {
-  width: 200px;
-  height: 200px;
+.slide-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem;
+}
+.certificate-image img {
+  max-width: 600px;
+}
+@media screen and (max-width: 550px) {
+  .mon__certificates {
+    margin: 0.5rem 1rem;
+    padding: 1rem;
+  }
+  .certificate-image img {
+    max-width: 300px;
+  }
+}
+@media screen and (max-width: 350px) {
+  .certificate-image img {
+    max-width: 200px;
+  }
 }

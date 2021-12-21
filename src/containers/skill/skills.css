@@ -1,3 +1,7 @@
+#tsparticles {
+  z-index: -1;
+}
+
 .mon__skills {
   display: flex;
 }
@@ -21,5 +25,9 @@
   }
   .mon__skills {
     padding: 1rem;
+    margin: 1rem;
+  }
+  .mon__skills-heading {
+    margin-right: 1rem;
   }
 }

@@ -5,22 +5,21 @@
   scroll-behavior: smooth;
   font-family: var(--font-family);
 }
-body {
-}
+
 a {
   color: unset;
   text-decoration: none;
 }
-.gradient__bg {
-  /* ff 3.6+ */
-}
+
 .gradient__text {
   background: var(--gradient-text);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
+p {
+  font-weight: 900;
+}
 .section__padding {
   padding: 4rem 6rem;
 }
