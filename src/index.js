@@ -2,7 +2,7 @@ import core from 'actions/core'
 
 const person = core.getInput('person');
 
-console.log(`Welcome ${person}!`);
+console.log(`Hello ${person}!`);
 // import React from "react";
 // import ReactDOM from "react-dom";
 
